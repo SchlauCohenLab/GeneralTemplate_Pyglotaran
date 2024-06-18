@@ -123,6 +123,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+<<<<<<< HEAD
 #Various files
 .DS_Store
 .idea/
+=======
+ #Various
+ .DS_Store
+ .idea/
+>>>>>>> 8b70081c2f8ddfdfaeca86e4fd23d842919a9092
